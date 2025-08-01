@@ -30,7 +30,7 @@ This project uses computer vision and deep learning to detect and recognize sign
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the main application:
-   python main.py
+   python inference_classifier.py
 
 
 ## 📈 What I Learned
